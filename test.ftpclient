@@ -1,0 +1,541 @@
+Script started on Thu 02 Jun 2016 11:02:22 PM PDT
+chagome@uw1-320-10:~/programs/css432/program5$ script[4Plsg++ FTPClient.cpp main.cpp MsgBuffer.cpp Socket.cpp -o ftp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd program5ls[Kcd css432ls[Kcd programs/ls[K./ftp ftp.tripod.com
+ Open connection to "ftp.tripod.com:21"
+220 Welcome to Tripod us FTP.
+Name (ftp.tripod.com:chagome): css432
+331 Username set to css432. Now enter your password.
+Password: UWB0th3ll
+230- ==============================================================
+230-                     IMPORTANT NOTICE
+230- ==============================================================
+230- 
+230- Powerful building tools. Traffic-generating, money-making
+230- programs. It's all waiting for you at Tripod.
+230- 
+230-   http://www.tripod.lycos.com/
+230- 
+230- ==============================================================
+230- 
+230- Got a great idea for a website?  Then don't 
+230- wait, get your own web address today! 
+230- 
+230-   http://www.tripod.lycos.com/domains/
+230- 
+230- ==============================================================
+230- 
+230- We heard you loud and clear! You love your site, but
+230- you don't like the ads.  Remove those pesky popups 
+230- forever!
+230- 
+230-   http://www.tripod.lycos.com/web-hosting/compare_plans.pl
+230- 
+230- ==============================================================
+230 User 'css432' logged on.
+ftp:"/"> ls
+227 Entering Passive Mode (209,202,252,54,134,58)
+-rw-r--r--   1 css432   Tripod          0 Dec 13  2012 test5.txt
+-rw-r--r--   1 css432   Tripod         24 Dec  2  2014 cmaTest.txt
+-rw-r--r--   1 css432   Tripod          0 Dec 10  2012 test1
+drwxr-xr-x   1 css432   Tripod          0 Dec 11  2014 jecho
+-rw-r--r--   1 css432   Tripod          0 Dec 10  2012 testest5.txt
+-rw-r--r--   1 css432   Tripod        145 Dec 13  2012 jechorenametext.txt
+drwxr-xr-x   1 css432   Tripod          0 Mar 17 06:51 secretDungeon
+drwxr-xr-x   1 css432   Tripod          0 Dec  4  2014 hello2
+-rw-r--r--   1 css432   Tripod        694 Dec 13  2012 jecho.txt
+-rw-r--r--   1 css432   Tripod    6919680 Dec  2  2014 cmaTest2.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  1  2013 Mfukuda.txt
+-rw-r--r--   1 css432   Tripod       1536 Jun  4  2013 udp.pdf
+-rw-r--r--   1 css432   Tripod         12 Mar 17 03:33 okay.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  3 01:45 hello.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  7  2013 CraigisaSocket.cpp
+-rw-r--r--   1 css432   Tripod          8 Jun  7  2013 test_oct.txt
+-rw-r--r--   1 css432   Tripod         14 Jun 11  2013 win.txt
+-rw-r--r--   1 css432   Tripod       2735 Jun  6  2013 Socket2.cpp
+drwxr-xr-x   1 css432   Tripod          0 Dec 13  2011 cgi-bin
+-rw-r--r--   1 css432   Tripod         37 Dec  2  2014 moo.txt
+-rw-r--r--   1 css432   Tripod       2735 Jun  6  2013 Socket.cppSocket3.cpp
+-rw-r--r--   1 css432   Tripod       2735 Jun  6  2013 Socket9.cpp
+-rw-r--r--   1 css432   Tripod         10 Mar 17 03:56 joshhhhh.txt
+drwxr-xr-x   1 css432   Tripod          0 Dec 11  2014 SensorGrid
+-rw-r--r--   1 css432   Tripod         32 Jun  8  2013 sup
+drwxr-xr-x   1 css432   Tripod          0 Jun  8  2013 sunshine
+-rw-r--r--   1 css432   Tripod         35 Dec  2  2014 dataws
+-rw-r--r--   1 css432   Tripod          0 Jun  8  2013 morrison.txt
+-rw-r--r--   1 css432   Tripod         43 Jun  8  2013 out.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 10  2013 q.txt
+-rw-r--r--   1 css432   Tripod         26 Jun  8  2013 sample.txt
+-rw-r--r--   1 css432   Tripod       2048 Jun  8  2013 test123.txt
+-rw-r--r--   1 css432   Tripod         20 Jun  9  2013 690.txt
+drwxr-xr-x   1 css432   Tripod          0 Jun 11  2013 null
+-rw-r--r--   1 css432   Tripod          7 Jun 10  2013 stee.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  9  2013 simple2.txt
+-rw-r--r--   1 css432   Tripod          0 Dec  1  2014 412.w
+-rw-r--r--   1 css432   Tripod          4 Jun 10  2013 mytest2.txt
+-rw-r--r--   1 css432   Tripod          1 Jun 10  2013 testing
+-rw-r--r--   1 css432   Tripod          6 Jun 10  2013 testing.txt
+-rw-r--r--   1 css432   Tripod          0 Dec 12  2014 abc.txt
+-rw-r--r--   1 css432   Tripod          6 Jun 10  2013 dumptcp.output
+-rw-r--r--   1 css432   Tripod         73 Mar  7 23:11 testfile.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 10  2013 testfile.com
+-rw-r--r--   1 css432   Tripod         23 Jun 10  2013 stee3.txt
+drwxr-xr-x   1 css432   Tripod          0 Jun 10  2013 help
+drwxr-xr-x   1 css432   Tripod          0 Jun 10  2013 spider
+-rw-r--r--   1 css432   Tripod          5 Mar 12 19:29 ls
+drwxr-xr-x   1 css432   Tripod          0 Jun 11  2013 newdir
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 yourhello.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 10  2013 quit
+-rw-r--r--   1 css432   Tripod          7 Jun 10  2013 stee2.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 10  2013 sublime.tar.bz2
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 yourfile.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 10  2013 testfile1
+-rw-r--r--   1 css432   Tripod         24 Jun 11  2013 test100.txt
+-rw-r--r--   1 css432   Tripod        694 Jun 11  2013 yesjeff.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 10  2013 newtxt
+-rw-r--r--   1 css432   Tripod         25 Jun 10  2013 t
+-rw-r--r--   1 css432   Tripod         25 Jun 10  2013 p
+-rw-r--r--   1 css432   Tripod         33 Jun 11  2013 t1
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 100dollars.txt
+drwxr-xr-x   1 css432   Tripod          0 Dec 12  2014 testDir
+-rw-r--r--   1 css432   Tripod       3900 Mar 17 06:46 test.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  1 02:46 Testing123.txt
+drwxr-xr-x   1 css432   Tripod          0 Jun 11  2013 testCG
+-rw-r--r--   1 css432   Tripod         24 Jun 11  2013 test101.txt
+-rw-r--r--   1 css432   Tripod         23 Jun 11  2013 stee4.txt
+-rw-r--r--   1 css432   Tripod     147316 Mar 12 17:45 rfc0959.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 000000test.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 rfc0959-3.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 rfc0959-4.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 cgTest1.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 cgTest.txt
+-rw-r--r--   1 css432   Tripod         35 Nov 30  2014 data.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 00test.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 000test.txt
+-rw-r--r--   1 css432   Tripod        503 Jun 11  2013 blblblb.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 900test.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 9000test.txt
+-rw-r--r--   1 css432   Tripod          0 Jun 11  2013 90test.txt
+-rw-r--r--   1 css432   Tripod         20 Jun 11  2013 80test.txt
+-rw-r--r--   1 css432   Tripod        707 Jun 11  2013 300test.txt
+-rw-r--r--   1 css432   Tripod        707 Jun 11  2013 30test.txt
+-rw-r--r--   1 css432   Tripod       3072 Dec  3  2014 dennys.txt
+-rw-r--r--   1 css432   Tripod       2048 Jun 11  2013 blenders.txt
+-rw-r--r--   1 css432   Tripod         14 Jun 11  2013 newfile.txt
+-rw-r--r--   1 css432   Tripod         18 Dec  4  2014 adata.txt
+drwxr-xr-x   1 css432   Tripod          0 Dec 11  2014 Vault101
+-rw-r--r--   1 css432   Tripod          5 Dec  4  2014 asdf.txt
+-rw-r--r--   1 css432   Tripod          0 Nov 30  2014 asds
+-rw-r--r--   1 css432   Tripod          0 Mar 13 20:39 0
+-rw-r--r--   1 css432   Tripod          0 Dec  3  2014 asdfsdfsdgf
+-rw-r--r--   1 css432   Tripod       1500 Dec  3  2014 asdf3
+-rw-r--r--   1 css432   Tripod          0 Dec 12  2014 testdatasam.txt
+-rw-r--r--   1 css432   Tripod         14 Feb 29 14:56 testfile13
+-rw-r--r--   1 css432   Tripod          6 Dec  3  2014 asdf2.txt
+-rw-r--r--   1 css432   Tripod         36 Dec  3  2014 data.data
+drwxr-xr-x   1 css432   Tripod          0 Mar  7 15:50 thatdir
+-rw-r--r--   1 css432   Tripod         27 Dec 10  2014 xyz.txt
+-rw-r--r--   1 css432   Tripod       6904 Dec  4  2014 zBEST_FILE_NO_LIE.txt
+-rw-r--r--   1 css432   Tripod          0 Dec  4  2014 x
+-rw-r--r--   1 css432   Tripod     513275 Dec 11  2014 CSS432_Discussion1.pdf
+-rw-r--r--   1 css432   Tripod          0 Dec  4  2014 xyz
+-rw-r--r--   1 css432   Tripod         36 Dec  3  2014 testdata.txt
+-rw-r--r--   1 css432   Tripod         27 Dec  9  2014 xyzw.txt
+-rw-r--r--   1 css432   Tripod          0 Mar  9 06:51 x.txt
+drwxr-xr-x   1 css432   Tripod          0 Dec  8  2014 tardis
+-rw-r--r--   1 css432   Tripod       1522 Jun  3 01:20 Treasure.txt
+-rw-r--r--   1 css432   Tripod       8830 Dec  3  2014 better-days.txt
+-rw-r--r--   1 css432   Tripod         13 Dec  9  2014 JohnTest2.txt
+-rw-r--r--   1 css432   Tripod          0 Dec 12  2014 file
+drwxr-xr-x   1 css432   Tripod          0 Dec 11  2014 myDir
+drwxr-xr-x   1 css432   Tripod          0 Dec 11  2014 lukeproject
+-rw-r--r--   1 css432   Tripod       5414 Mar 12 19:13 ttcp.cpp
+-rw-r--r--   1 css432   Tripod          6 Dec 11  2014 test.cpp
+-rw-r--r--   1 css432   Tripod         48 Mar  1 00:58 passwords.txt
+-rw-r--r--   1 css432   Tripod          0 Mar  3 16:30 Herpaderp432.txt
+-rw-r--r--   1 css432   Tripod          0 Dec 11  2014 sparkles
+-rw-r--r--   1 css432   Tripod         98 Dec 11  2014 sparks
+-rw-r--r--   1 css432   Tripod       1942 Dec 11  2014 ayylmao.txt
+-rw-r--r--   1 css432   Tripod          0 Dec 11  2014 meow.txt
+-rw-r--r--   1 css432   Tripod       1942 Dec 11  2014 ayylmao2.txt
+-rw-r--r--   1 css432   Tripod          0 Dec 11  2014 naughty
+-rw-r--r--   1 css432   Tripod         45 Dec 11  2014 naughtysecret.txt
+-rw-r--r--   1 css432   Tripod     147315 Mar 13 00:26 rfc959.txt
+-rw-r--r--   1 css432   Tripod          0 Dec 11  2014 towel.txt
+-rw-r--r--   1 css432   Tripod          0 Dec 12  2014 face.txt
+-rw-r--r--   1 css432   Tripod         24 Mar  8 21:36 Tuff.txt
+-rw-r--r--   1 css432   Tripod          0 Mar  8 21:41 data
+-rw-r--r--   1 css432   Tripod          0 Dec 11  2014 IPv4.cpp
+-rw-r--r--   1 css432   Tripod          0 Dec 11  2014 IPv4.h
+-rw-r--r--   1 css432   Tripod     148710 Mar 10 22:13 teeheelol.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 10 23:19 lolbutts.txt
+-rw-r--r--   1 css432   Tripod        396 Dec 12  2014 faceduplicate.txt
+drwxr-xr-x   1 css432   Tripod          0 May 29 21:35 project
+drwxr-xr-x   1 css432   Tripod          0 Mar 10 19:14 test
+-rw-r--r--   1 css432   Tripod          0 Dec 12  2014 CSS432ROCKS.txt
+drwxr-xr-x   1 css432   Tripod          0 Mar 15 19:39 test4444
+-rw-r--r--   1 css432   Tripod         21 Dec 12  2014 CSS432ROCKS1.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 10 22:39 mydata1copyput.txt
+-rw-r--r--   1 css432   Tripod         55 Mar 10 23:02 310test.txt
+-rw-r--r--   1 css432   Tripod     970527 Mar 15 19:25 Laugh.gif
+-rw-r--r--   1 css432   Tripod          0 Mar 12 16:47 myfile.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 11 21:52 mereFile.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 11 03:23 tpt.txt
+-rw-r--r--   1 css432   Tripod     147316 Mar 15 17:56 mycpy001.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 11 15:17 lol.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 11 15:26 1.txt
+-rw-r--r--   1 css432   Tripod     970529 Mar 15 18:26 test.gif
+-rw-r--r--   1 css432   Tripod          0 Mar 11 19:19 noexttest
+-rw-r--r--   1 css432   Tripod          8 Mar 11 20:13 testDug.txt
+-rw-r--r--   1 css432   Tripod         34 Mar 13 06:53 YOUNOWFACELORDJARAXXUS.txt
+-rw-r--r--   1 css432   Tripod          6 Mar 12 15:44 wazap.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 12 16:20 wakawaka
+-rw-r--r--   1 css432   Tripod          5 Mar 12 16:37 tt.txt
+-rw-r--r--   1 css432   Tripod          7 Mar 13 00:12 this.txt
+-rw-r--r--   1 css432   Tripod         62 Mar 14 14:50 myderp.txt
+-rw-r--r--   1 css432   Tripod         62 Mar 12 20:04 FEEL_THE_BERN.txt
+-rw-r--r--   1 css432   Tripod        135 Mar 12 19:30 ttt2.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 13 15:22 gebhartc.txt
+-rw-r--r--   1 css432   Tripod         14 Mar 15 22:19 ChrisTextWrite.txt
+-rw-r--r--   1 css432   Tripod       5414 Mar 12 18:42 dumb.gif
+-rw-r--r--   1 css432   Tripod      31781 Mar 12 19:23 mycpy1.jpg
+-rw-r--r--   1 css432   Tripod          7 Mar 12 21:15 t2tt.txt
+-rw-r--r--   1 css432   Tripod          5 Mar 12 19:32 dumb2.gif
+-rw-r--r--   1 css432   Tripod         25 Mar 12 21:15 testDug2.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 12 21:17 testDug3.txt
+-rw-r--r--   1 css432   Tripod        135 Mar 12 20:25 t2t.txt
+-rw-r--r--   1 css432   Tripod        135 Mar 12 21:26 ttt2t.txt
+-rw-r--r--   1 css432   Tripod          7 Mar 12 21:29 t2t2t.txt
+-rw-r--r--   1 css432   Tripod          7 Mar 12 21:33 ttt2tt.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 13 01:12 gebhartc2.txt
+-rw-r--r--   1 css432   Tripod         31 Mar 15 17:10 ttt.txt
+-rw-r--r--   1 css432   Tripod         14 Mar 15 18:19 put
+-rw-r--r--   1 css432   Tripod         14 Mar 15 22:12 asdf
+-rw-r--r--   1 css432   Tripod         98 Mar 14 23:04 gebhartc1.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 13 16:16 gebahrtc1.txt
+-rw-r--r--   1 css432   Tripod     970527 Mar 13 20:11 Laugh_put.gif
+-rw-r--r--   1 css432   Tripod         57 Mar 13 17:49 testDug6.txt
+-rw-r--r--   1 css432   Tripod     970527 Mar 13 18:02 Laugh1.gif
+-rw-r--r--   1 css432   Tripod         23 Mar 15 01:15 bleep.txt
+-rw-r--r--   1 css432   Tripod      50114 Mar 16 02:23 HunterTest.txt
+-rw-r--r--   1 css432   Tripod         64 Mar 14 16:43 KesslerTest.txt
+-rw-r--r--   1 css432   Tripod         21 Mar 14 21:40 MAKEITSTOP.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 14 23:13 ohno
+-rw-r--r--   1 css432   Tripod         22 Mar 14 22:14 blooper
+-rw-r--r--   1 css432   Tripod       1500 Mar 14 21:56 me
+-rw-r--r--   1 css432   Tripod       1500 Mar 14 22:04 bl
+-rw-r--r--   1 css432   Tripod         17 Mar 15 00:03 bloop
+-rw-r--r--   1 css432   Tripod         26 Mar 14 23:09 sevenDaysUntilYouDie.txt
+-rw-r--r--   1 css432   Tripod     970529 Mar 14 22:57 nope.gif
+-rw-r--r--   1 css432   Tripod     201945 Mar 14 23:09 bushesOfLove.png
+-rw-r--r--   1 css432   Tripod         24 Mar 15 00:02 bloop.txt
+-rw-r--r--   1 css432   Tripod         24 Mar 17 02:51 blooooop.txt
+-rw-r--r--   1 css432   Tripod         71 Mar 15 00:19 IHaveNoTimeToStudy.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 00:24 ardiono
+-rw-r--r--   1 css432   Tripod          0 Mar 15 00:29 wubbles.txt
+-rw-r--r--   1 css432   Tripod         14 Mar 15 19:40 ChrisTestWrite.txt
+-rw-r--r--   1 css432   Tripod       1460 Mar 15 01:53 IceCream.cpp
+-rw-r--r--   1 css432   Tripod          0 Mar 15 02:31 IceCream.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 02:02 rawr
+-rw-r--r--   1 css432   Tripod       1500 Mar 15 02:43 IceCream2.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 02:34 IceCream2.cpp
+-rw-r--r--   1 css432   Tripod    1749000 Mar 15 02:47 eww.gif
+-rw-r--r--   1 css432   Tripod       1500 Mar 16 00:33 b.txt
+-rw-r--r--   1 css432   Tripod         21 Mar 17 04:44 spidermonkey.txt
+-rw-r--r--   1 css432   Tripod         75 Mar 15 03:18 spidermonkey2thesequel.txt
+-rw-r--r--   1 css432   Tripod          3 Mar 15 03:51 sadness
+-rw-r--r--   1 css432   Tripod         47 Mar 15 17:55 testDug7.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 05:38 a
+-rw-r--r--   1 css432   Tripod       2591 Mar 15 05:49 beerme.txt
+-rw-r--r--   1 css432   Tripod     172657 Mar 15 18:31 PictureOfYourMom.png
+-rw-r--r--   1 css432   Tripod       1500 Mar 15 15:55 blank.txt
+-rw-r--r--   1 css432   Tripod       1031 Mar 15 16:40 jabberwocky.txt
+-rw-r--r--   1 css432   Tripod         77 Mar 15 17:42 css432testfile
+-rw-r--r--   1 css432   Tripod         20 Mar 15 17:51 stestfile.txt
+-rw-r--r--   1 css432   Tripod     172657 Mar 15 17:55 mycpy1.png
+-rw-r--r--   1 css432   Tripod          0 Mar 15 18:05 Answers
+-rw-r--r--   1 css432   Tripod          7 Mar 15 18:18 finalP.txt
+-rw-r--r--   1 css432   Tripod     970527 Mar 15 19:35 Laugh-final.gif
+-rw-r--r--   1 css432   Tripod          0 Mar 15 20:09 malganis.txtRDJARAXXUS.txt
+-rw-r--r--   1 css432   Tripod         70 Mar 15 21:37 thisIsAnotherTest.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 21:42 moreSadness.txt
+-rw-r--r--   1 css432   Tripod        189 Mar 15 22:29 j.txt
+-rw-r--r--   1 css432   Tripod         14 Mar 15 22:04 ChrisWriteText.txt
+-rw-r--r--   1 css432   Tripod        100 Mar 16 03:26 kessler.txt
+-rw-r--r--   1 css432   Tripod      21137 Mar 16 13:53 paul.jpg
+-rw-r--r--   1 css432   Tripod      50114 Mar 15 22:51 H-data.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 22:35 ChrisText.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 16 02:53 ChrisTest.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 16 13:22 TylerText.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 22:39 TylerText2.txt
+-rw-r--r--   1 css432   Tripod         15 Mar 15 23:02 tete2.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 16 00:11 example
+-rw-r--r--   1 css432   Tripod          0 Mar 16 00:11 example.txt
+-rw-r--r--   1 css432   Tripod          7 Mar 16 03:34 goodbye.txt
+-rw-r--r--   1 css432   Tripod         12 Mar 16 01:21 crazydoc.txt
+-rw-r--r--   1 css432   Tripod         15 Mar 16 17:01 mink.txt
+-rw-r--r--   1 css432   Tripod      21137 Mar 16 02:13 mia.jpg
+-rw-r--r--   1 css432   Tripod          4 Mar 16 10:57 XiaoTest.txt
+-rw-r--r--   1 css432   Tripod          2 Mar 16 02:50 stevetest.txt
+-rw-r--r--   1 css432   Tripod        386 Mar 16 03:48 malganis.txt
+-rw-r--r--   1 css432   Tripod       2547 Mar 17 07:28 tete.txt
+-rw-r--r--   1 css432   Tripod       2136 Mar 17 02:45 coffee.jpg
+-rw-r--r--   1 css432   Tripod         75 Mar 16 03:30 DoYouRequireAssistance.txt
+-rw-r--r--   1 css432   Tripod         35 Mar 16 05:22 IzzyTreasureBox
+-rw-r--r--   1 css432   Tripod         17 Mar 16 15:00 coffeeabc.jpg
+-rw-r--r--   1 css432   Tripod       2591 Mar 16 15:55 ISeeLight.txt
+-rw-r--r--   1 css432   Tripod       2591 Mar 17 03:50 gosh_darn_hippies.txt
+-rw-r--r--   1 css432   Tripod       6299 Mar 17 07:57 cat.png
+-rw-r--r--   1 css432   Tripod       6090 Mar 17 04:19 stolenLoot.txt
+-rw-r--r--   1 css432   Tripod       6090 Mar 17 04:22 stolenLoot2.txt
+-rw-r--r--   1 css432   Tripod       6090 Mar 17 04:24 stolenLoot3.txt
+-rw-r--r--   1 css432   Tripod       6090 Mar 17 04:25 stolenLoot4.txt
+-rw-r--r--   1 css432   Tripod       6090 Mar 17 04:26 stolenLoot5.txt
+-rw-r--r--   1 css432   Tripod       6090 Mar 17 04:42 t4.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 17 06:01 file.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 17 07:14 3am.txt
+-rw-r--r--   1 css432   Tripod       2591 Mar 17 06:36 wish_i_was_sober.txt
+-rw-r--r--   1 css432   Tripod       3094 Mar 17 07:56 kek.txt
+-rw-r--r--   1 css432   Tripod         55 Mar 17 08:46 AH.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 17 09:12 ChrisTest2.txt
+-rw-r--r--   1 css432   Tripod       3094 Mar 17 09:35 k.txt
+-rw-r--r--   1 css432   Tripod       3094 Mar 17 09:35 k2.txt
+drwxr-xr-x   1 css432   Tripod          0 Jun  1 02:41 apw6
+-rw-r--r--   1 css432   Tripod          0 Jun  2 03:24 today.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  2 03:22 hi.out
+-rw-r--r--   1 css432   Tripod        600 Jun  1 19:20 ThumbsUP.txt
+-rw-r--r--   1 css432   Tripod       1690 Jun  1 19:39 Kat.txt
+drwxr-xr-x   1 css432   Tripod          0 Jun  1 20:25 folder
+-rw-r--r--   1 css432   Tripod         28 Jun  2 02:35 thewhat.txt
+-rw-r--r--   1 css432   Tripod         64 Jun  2 03:06 shizzulke.txt
+-rw-r--r--   1 css432   Tripod         64 Jun  2 03:07 shizzulke2.txt
+-rw-r--r--   1 css432   Tripod         64 Jun  2 03:10 shizzulke3.txt
+-rw-r--r--   1 css432   Tripod          4 Jun  2 03:25 lala.txt
+-rw-r--r--   1 css432   Tripod       2433 Jun  2 03:27 br.txt
+-rw-r--r--   1 css432   Tripod       1970 Jun  2 23:27 br2.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  3 00:28 ggggg.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  3 00:33 xyz123abc.txt
+-rw-r--r--   1 css432   Tripod        726 Jun  3 00:50 parse_test.cpp
+-rw-r--r--   1 css432   Tripod       1522 Jun  3 01:20 Treasur3e.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  3 01:45 testput.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  3 01:55 testput3.txt
+drwxr-xr-x   1 css432   Tripod          0 Jun  3 01:57 schulke
+150 Opening ASCII mode data connection for LIST.
+226 Transfer complete.
+ftp:"/"> f get ttcp.c
+227 Entering Passive Mode (209,202,252,54,134,222)
+200 Type set to 'I' (IMAGE aka BINARY).
+550 No such file as 'ttcp.c'.
+Received in 2seconds
+ftp:"/"> cd project
+250 Directory set to '/project'.
+ftp:"/project"> ls
+227 Entering Passive Mode (209,202,252,54,135,44)
+terminate called after throwing an instance of 'std::length_error'
+  what():  basic_string::_S_create
+150 Opening ASCII mode data connection for LIST.
+226 Transfer complete.
+ftp:"/project"> put
+(local-file) ls
+(remote-file) close
+227 Entering Passive Mode (209,202,252,54,135,103)
+200 Type set to 'I' (IMAGE aka BINARY).
+150 Opening BINARY mode data connection for 'close'.
+226 Transfer complete.  (0 bytes sent.)
+ftp:"/project"> ls
+227 Entering Passive Mode (209,202,252,54,135,136)
+-rw-r--r--   1 css432   Tripod          0 Mar 11 03:46 ttt
+-rw-r--r--   1 css432   Tripod          1 Mar 15 05:47 bigfile
+-rw-r--r--   1 css432   Tripod          0 Dec 11  2014 Main.L68
+-rw-r--r--   1 css432   Tripod     513275 Dec 11  2014 CSS432_Discussion1.pdf
+-rw-r--r--   1 css432   Tripod         41 Dec 12  2014 lolbutts.txt
+-rw-r--r--   1 css432   Tripod          4 Dec 11  2014 MSaleh.txt
+-rw-r--r--   1 css432   Tripod         15 Dec 12  2014 towel.txt
+-rw-r--r--   1 css432   Tripod        571 Dec 12  2014 doge.png
+-rw-r--r--   1 css432   Tripod         60 Dec 12  2014 sampleData.txt
+-rw-r--r--   1 css432   Tripod         61 Dec 12  2014 newData.txt
+-rw-r--r--   1 css432   Tripod         42 Mar 14 18:06 testfile.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  1 21:45 MFukuda.txt
+-rw-r--r--   1 css432   Tripod         62 Mar 13 16:54 myderp.txt
+-rw-r--r--   1 css432   Tripod         15 Dec 12  2014 message.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 22:41 ftp
+-rw-r--r--   1 css432   Tripod          0 Mar  3 18:38 DimpseyIsMyHero
+-rw-r--r--   1 css432   Tripod         51 Mar 14 21:12 test.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 11 01:40 BigV.txt
+-rw-r--r--   1 css432   Tripod          0 Mar  8 07:14 Testing
+-rw-r--r--   1 css432   Tripod          0 Mar  8 21:23 q
+-rw-r--r--   1 css432   Tripod         71 Mar 13 20:09 herpalerp.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 11 01:41 Tuff.txt
+drwxr-xr-x   1 css432   Tripod          0 Mar  9 07:03 TeddyBear
+-rw-r--r--   1 css432   Tripod          0 Mar 11 01:46 name
+-rw-r--r--   1 css432   Tripod         16 Mar 14 00:56 testo.txt
+-rw-r--r--   1 css432   Tripod         62 Mar 14 14:30 FEEL_THE_BERN.txt
+-rw-r--r--   1 css432   Tripod     172657 Mar 15 15:44 PictureOfYourMom.png
+-rw-r--r--   1 css432   Tripod         53 Mar 17 02:22 andrewTest.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 17 05:37 myFreshV.txt
+-rw-r--r--   1 css432   Tripod      50114 Mar 16 02:41 HunterTest.txt
+-rw-r--r--   1 css432   Tripod     201945 Mar 15 16:17 bushesOfLove.png
+-rw-r--r--   1 css432   Tripod     101186 Mar 15 22:54 HunterRename.txt
+-rw-r--r--   1 css432   Tripod     101186 Mar 15 17:35 HunterRenamedata.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 17 05:39 myV.txt
+-rw-r--r--   1 css432   Tripod      50114 Mar 15 19:09 H-data.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 19:17 myBigV.txt
+-rw-r--r--   1 css432   Tripod      50114 Mar 16 14:39 HunterTest2.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 17 05:48 myLilV.txt
+-rw-r--r--   1 css432   Tripod       8841 Mar 15 23:18 ChrisTestWrite.txt
+-rw-r--r--   1 css432   Tripod        581 Mar 15 23:12 ubuntuLogo.txt
+-rw-r--r--   1 css432   Tripod       2947 Mar 15 22:36 linux.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 16 00:24 linux2.txt
+-rw-r--r--   1 css432   Tripod         14 Mar 15 22:51 ChrisText.txt
+-rw-r--r--   1 css432   Tripod         14 Mar 15 22:58 ChrisTest
+-rw-r--r--   1 css432   Tripod        220 Mar 16 00:04 linux3.txt
+-rw-r--r--   1 css432   Tripod       2622 Mar 17 05:00 paul.jpg
+-rw-r--r--   1 css432   Tripod       8862 Mar 16 02:55 ChrisTest.txt
+-rw-r--r--   1 css432   Tripod         44 Mar 16 01:32 linux4.txt
+-rw-r--r--   1 css432   Tripod       8862 Mar 16 02:58 ChrisTest1.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 17 09:26 ChrisTest2.txt
+-rw-r--r--   1 css432   Tripod         37 Mar 17 05:14 IzzyTreasureBox
+-rw-r--r--   1 css432   Tripod         34 Mar 17 02:17 testAndrew.txt
+-rw-r--r--   1 css432   Tripod          4 Mar 19 05:03 mink.txt
+-rw-r--r--   1 css432   Tripod       2591 Mar 17 03:40 ISeeLight.txt
+-rw-r--r--   1 css432   Tripod       3950 Mar 17 02:30 CanIGetSomeOs
+-rw-r--r--   1 css432   Tripod          0 Mar 17 04:52 myLill
+-rw-r--r--   1 css432   Tripod          0 Mar 17 05:00 defg
+-rw-r--r--   1 css432   Tripod          0 Mar 17 05:40 nbothing.txt
+-rw-r--r--   1 css432   Tripod          4 Mar 19 04:48 myfile.txt
+-rw-r--r--   1 css432   Tripod         28 Mar 17 10:56 myNewV.txt
+-rw-r--r--   1 css432   Tripod          4 Mar 19 05:37 yourV.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 17 06:28 yourBigV.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 17 10:02 ChrisText2.txt
+-rw-r--r--   1 css432   Tripod       8876 Mar 17 10:52 cTest6.txt
+-rw-r--r--   1 css432   Tripod       8876 Mar 17 10:13 cTest2.txt
+-rw-r--r--   1 css432   Tripod       8876 Mar 17 10:15 cTest3.txt
+-rw-r--r--   1 css432   Tripod         16 May 27 19:36 abc.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 19 04:07 myfile
+-rw-r--r--   1 css432   Tripod       2591 Mar 19 04:16 wish_i_was_sober.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 19 05:50 put
+-rw-r--r--   1 css432   Tripod         54 Mar 20 00:23 compile.sh
+-rw-r--r--   1 css432   Tripod         29 Mar 20 03:11 new7.txt
+-rw-r--r--   1 css432   Tripod         29 Mar 20 03:56 new8.txt
+-rw-r--r--   1 css432   Tripod         42 Mar 20 03:59 new9.txt
+-rw-r--r--   1 css432   Tripod         42 Mar 20 04:21 new10.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 20 04:24 abcd.txt
+-rw-r--r--   1 css432   Tripod         44 Mar 20 04:29 new11.txt
+-rw-r--r--   1 css432   Tripod         42 Mar 20 04:43 new14.txt
+-rw-r--r--   1 css432   Tripod         65 May 27 19:33 JPF-Test.txt
+-rw-r--r--   1 css432   Tripod          0 May 27 21:41 build
+-rw-r--r--   1 css432   Tripod         65 May 27 19:42 JPF-Test2.txt
+-rw-r--r--   1 css432   Tripod         68 May 27 19:57 JPF_TEST.txt
+-rw-r--r--   1 css432   Tripod         71 May 28 00:20 tes4.txt
+-rw-r--r--   1 css432   Tripod        136 May 27 20:23 JPF_TEST2.txt
+-rw-r--r--   1 css432   Tripod         68 May 27 20:31 JPF_TEST3.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  3 02:03 close
+-rw-r--r--   1 css432   Tripod         71 May 27 22:07 test5.txt
+150 Opening ASCII mode data connection for LIST.
+226 Transfer complete.
+ftp:"/project"> put
+(local-file) data
+(remote-file) MuFukuda       Fukuda.txt
+227 Entering Passive Mode (209,202,252,54,136,181)
+200 Type set to 'I' (IMAGE aka BINARY).
+150 Opening BINARY mode data connection for 'MFukuda.txt'.
+226 Transfer complete.  (0 bytes sent.)
+ftp:"/project"> ls
+227 Entering Passive Mode (209,202,252,54,136,209)
+-rw-r--r--   1 css432   Tripod          0 Mar 11 03:46 ttt
+-rw-r--r--   1 css432   Tripod          1 Mar 15 05:47 bigfile
+-rw-r--r--   1 css432   Tripod          0 Dec 11  2014 Main.L68
+-rw-r--r--   1 css432   Tripod     513275 Dec 11  2014 CSS432_Discussion1.pdf
+-rw-r--r--   1 css432   Tripod         41 Dec 12  2014 lolbutts.txt
+-rw-r--r--   1 css432   Tripod          4 Dec 11  2014 MSaleh.txt
+-rw-r--r--   1 css432   Tripod         15 Dec 12  2014 towel.txt
+-rw-r--r--   1 css432   Tripod        571 Dec 12  2014 doge.png
+-rw-r--r--   1 css432   Tripod         60 Dec 12  2014 sampleData.txt
+-rw-r--r--   1 css432   Tripod         61 Dec 12  2014 newData.txt
+-rw-r--r--   1 css432   Tripod         42 Mar 14 18:06 testfile.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  3 02:04 MFukuda.txt
+-rw-r--r--   1 css432   Tripod         62 Mar 13 16:54 myderp.txt
+-rw-r--r--   1 css432   Tripod         15 Dec 12  2014 message.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 22:41 ftp
+-rw-r--r--   1 css432   Tripod          0 Mar  3 18:38 DimpseyIsMyHero
+-rw-r--r--   1 css432   Tripod         51 Mar 14 21:12 test.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 11 01:40 BigV.txt
+-rw-r--r--   1 css432   Tripod          0 Mar  8 07:14 Testing
+-rw-r--r--   1 css432   Tripod          0 Mar  8 21:23 q
+-rw-r--r--   1 css432   Tripod         71 Mar 13 20:09 herpalerp.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 11 01:41 Tuff.txt
+drwxr-xr-x   1 css432   Tripod          0 Mar  9 07:03 TeddyBear
+-rw-r--r--   1 css432   Tripod          0 Mar 11 01:46 name
+-rw-r--r--   1 css432   Tripod         16 Mar 14 00:56 testo.txt
+-rw-r--r--   1 css432   Tripod         62 Mar 14 14:30 FEEL_THE_BERN.txt
+-rw-r--r--   1 css432   Tripod     172657 Mar 15 15:44 PictureOfYourMom.png
+-rw-r--r--   1 css432   Tripod         53 Mar 17 02:22 andrewTest.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 17 05:37 myFreshV.txt
+-rw-r--r--   1 css432   Tripod      50114 Mar 16 02:41 HunterTest.txt
+-rw-r--r--   1 css432   Tripod     201945 Mar 15 16:17 bushesOfLove.png
+-rw-r--r--   1 css432   Tripod     101186 Mar 15 22:54 HunterRename.txt
+-rw-r--r--   1 css432   Tripod     101186 Mar 15 17:35 HunterRenamedata.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 17 05:39 myV.txt
+-rw-r--r--   1 css432   Tripod      50114 Mar 15 19:09 H-data.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 15 19:17 myBigV.txt
+-rw-r--r--   1 css432   Tripod      50114 Mar 16 14:39 HunterTest2.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 17 05:48 myLilV.txt
+-rw-r--r--   1 css432   Tripod       8841 Mar 15 23:18 ChrisTestWrite.txt
+-rw-r--r--   1 css432   Tripod        581 Mar 15 23:12 ubuntuLogo.txt
+-rw-r--r--   1 css432   Tripod       2947 Mar 15 22:36 linux.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 16 00:24 linux2.txt
+-rw-r--r--   1 css432   Tripod         14 Mar 15 22:51 ChrisText.txt
+-rw-r--r--   1 css432   Tripod         14 Mar 15 22:58 ChrisTest
+-rw-r--r--   1 css432   Tripod        220 Mar 16 00:04 linux3.txt
+-rw-r--r--   1 css432   Tripod       2622 Mar 17 05:00 paul.jpg
+-rw-r--r--   1 css432   Tripod       8862 Mar 16 02:55 ChrisTest.txt
+-rw-r--r--   1 css432   Tripod         44 Mar 16 01:32 linux4.txt
+-rw-r--r--   1 css432   Tripod       8862 Mar 16 02:58 ChrisTest1.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 17 09:26 ChrisTest2.txt
+-rw-r--r--   1 css432   Tripod         37 Mar 17 05:14 IzzyTreasureBox
+-rw-r--r--   1 css432   Tripod         34 Mar 17 02:17 testAndrew.txt
+-rw-r--r--   1 css432   Tripod          4 Mar 19 05:03 mink.txt
+-rw-r--r--   1 css432   Tripod       2591 Mar 17 03:40 ISeeLight.txt
+-rw-r--r--   1 css432   Tripod       3950 Mar 17 02:30 CanIGetSomeOs
+-rw-r--r--   1 css432   Tripod          0 Mar 17 04:52 myLill
+-rw-r--r--   1 css432   Tripod          0 Mar 17 05:00 defg
+-rw-r--r--   1 css432   Tripod          0 Mar 17 05:40 nbothing.txt
+-rw-r--r--   1 css432   Tripod          4 Mar 19 04:48 myfile.txt
+-rw-r--r--   1 css432   Tripod         28 Mar 17 10:56 myNewV.txt
+-rw-r--r--   1 css432   Tripod          4 Mar 19 05:37 yourV.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 17 06:28 yourBigV.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 17 10:02 ChrisText2.txt
+-rw-r--r--   1 css432   Tripod       8876 Mar 17 10:52 cTest6.txt
+-rw-r--r--   1 css432   Tripod       8876 Mar 17 10:13 cTest2.txt
+-rw-r--r--   1 css432   Tripod       8876 Mar 17 10:15 cTest3.txt
+-rw-r--r--   1 css432   Tripod         16 May 27 19:36 abc.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 19 04:07 myfile
+-rw-r--r--   1 css432   Tripod       2591 Mar 19 04:16 wish_i_was_sober.txt
+-rw-r--r--   1 css432   Tripod          0 Mar 19 05:50 put
+-rw-r--r--   1 css432   Tripod         54 Mar 20 00:23 compile.sh
+-rw-r--r--   1 css432   Tripod         29 Mar 20 03:11 new7.txt
+-rw-r--r--   1 css432   Tripod         29 Mar 20 03:56 new8.txt
+-rw-r--r--   1 css432   Tripod         42 Mar 20 03:59 new9.txt
+-rw-r--r--   1 css432   Tripod         42 Mar 20 04:21 new10.txt
+-rw-r--r--   1 css432   Tripod         16 Mar 20 04:24 abcd.txt
+-rw-r--r--   1 css432   Tripod         44 Mar 20 04:29 new11.txt
+-rw-r--r--   1 css432   Tripod         42 Mar 20 04:43 new14.txt
+-rw-r--r--   1 css432   Tripod         65 May 27 19:33 JPF-Test.txt
+-rw-r--r--   1 css432   Tripod          0 May 27 21:41 build
+-rw-r--r--   1 css432   Tripod         65 May 27 19:42 JPF-Test2.txt
+-rw-r--r--   1 css432   Tripod         68 May 27 19:57 JPF_TEST.txt
+-rw-r--r--   1 css432   Tripod         71 May 28 00:20 tes4.txt
+-rw-r--r--   1 css432   Tripod        136 May 27 20:23 JPF_TEST2.txt
+-rw-r--r--   1 css432   Tripod         68 May 27 20:31 JPF_TEST3.txt
+-rw-r--r--   1 css432   Tripod          0 Jun  3 02:03 close
+-rw-r--r--   1 css432   Tripod         71 May 27 22:07 test5.txt
+150 Opening ASCII mode data connection for LIST.
+226 Transfer complete.
+ftp:"/project"> close
+221 Goodbye...
+ftp:"/project"> quit
+ No connection to close.
+GOODBYE!
+ EXITING ...
+chagome@uw1-320-10:~/programs/css432/program5$ ^C
+chagome@uw1-320-10:~/programs/css432/program5$ exit
+
+Script done on Thu 02 Jun 2016 11:05:46 PM PDT
